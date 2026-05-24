@@ -1,0 +1,25 @@
+title: TestTrove Docs
+description: User guide for TestTrove test management workflows
+theme: minima
+
+nav:
+  - title: Home
+    url: /index.html
+  - title: Getting Started
+    url: /getting-started.html
+  - title: Login and Projects
+    url: /login-and-projects.html
+  - title: Test Cases
+    url: /test-cases.html
+  - title: Test Plans
+    url: /test-plans.html
+  - title: Test Runs
+    url: /test-runs.html
+  - title: Test Results
+    url: /test-results.html
+  - title: Reports
+    url: /reports.html
+  - title: AI Features
+    url: /ai-features.html
+  - title: FAQs
+    url: /faqs.html
